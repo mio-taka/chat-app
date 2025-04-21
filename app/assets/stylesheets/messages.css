@@ -106,6 +106,8 @@ a, .room_name {
   margin-left: 10px;
 }
 
+.lower-message{}
+
 .message_comment{
   font-size: 14px;
   color: #434a54;
